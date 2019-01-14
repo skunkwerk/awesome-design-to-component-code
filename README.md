@@ -9,6 +9,6 @@ List of GUI design software tools that export to React/Vue components
 | https://www.modulz.app/                 | web app | React         |
 | https://laska.io/                       | web app | React         |
 | https://pagedraw.io/                    | web app | React         |
-| https://builderx.io                     | desktop | React         |
-| https://reactstudio.com/                | desktop | React         |
+| https://builderx.io                     | MacOS   | React         |
+| https://reactstudio.com/                | MacOS   | React         |
 | https://github.com/ipselon/structor     | desktop | React         |
