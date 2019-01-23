@@ -15,3 +15,4 @@ List of GUI design software tools that export to React/Vue components
 | https://github.com/airbnb/Lona          | desktop | React         |
 | https://hadron.app/                     | web app | React, Vue.js |
 | https://meetalva.io                     | web app | React         |
+| https://supernova.io/                   | MacOS   | React         |
